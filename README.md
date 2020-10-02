@@ -13,7 +13,7 @@ Right click on macro's icon opens context menu where you can run your presets.
 
 ## Tech Specs
 
-* Compatibility: CorelDRAW X6+;
+* Compatibility: CorelDRAW X6,X7,X8+...
 * Localisation: EnglishUS;
 * [How to build and install](https://github.com/cdrpro-macros/build-and-Install-csharp-macros).
 
